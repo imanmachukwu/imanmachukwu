@@ -1,6 +1,6 @@
-### Hi there! I'm Imanmachukwu 👋
+### Hey, I am Imanmachukwu
 
-I am a design-centric UI developer, building seamless user interfaces with scalable and clean code. 👨‍💻
+I am a web developer.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=imanmachukwu&show_icons=true&theme=radical&border_radius=15&title_color=FFFFFF&text_color=E5F4E3&bg_color=2F2504&icon_color=0B6E4F&border_color=0B6E4F" />
 
