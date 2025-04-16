@@ -1,11 +1,33 @@
-### Hey, I am Imanmachukwu
+### Hi, I'm Imanmachukwu
 
-I am a web developer.
+I’m a curious and forward-thinking web developer focused on building thoughtful, user-centric digital experiences. I’m passionate about creating smooth, scalable interfaces—often combining design intuition with technical precision.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanmachukwu&border_radius=15&title_color=FFFFFF&text_color=E5F4E3&bg_color=2F2504&icon_color=0B6E4F&border_color=0B6E4F)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+#### Core Skills
+
+- **Frontend**: JavaScript / TypeScript, Vue, React, TailwindCSS, Pug, SCSS
+- **Design**: Figma, Framer, Rive, Origami Studio
+- **Backend & APIs**: Firebase, Supabase, MongoDB
+- **Tooling**: Git, Visual Studio Code, Vercel, Render
+
+---
+
+#### What Drives Me
+
+I constantly explore new ways to push the boundaries of development and design—leveraging modern technologies, learning paradigms, and systems thinking to solve real-world problems. Every project is a new chance to rethink the possible.
+
+---
+
+#### Featured Projects
+
+Check out my latest work at [work.imanma.xyz](https://work.imanma.xyz)
+
+---
+
+#### Let’s Connect
+
+Feel free to reach out if you want to collaborate, discuss ideas, or just say hi!
+
+[X (Twitter)](https://x.com/_imanmachukwu) · [Email](mailto:iamimanma@gmail.com)
+
